@@ -1,0 +1,43 @@
+{
+  "version": "1",
+  "created": "YuEn",
+  "createdTime": "2026-10-22 19:09:12",
+  "id": "yuanichonggao",
+  "title": "愿你崇高",
+  "artist": "天韵合唱团",
+  "sub": "天韵合唱团【溪边的树】(1991) (诗57:9-11) 叶薇心词/陈翠梅曲",
+  "origKey": "C",
+  "timeSign": "4/4",
+  "bpm": 94,
+  "mp3": "/upload/yuanichonggao.mp3",
+  "cover": "https://cecpadua.github.io/resouces/covers/xibiandeshu.jpg",
+  "lrc": "https://cecpadua.github.io/resouces/lyrics/yuanichonggao.lrc",
+  "youtube": "https://youtu.be/f9_SM4ueEJo?si=Yi8PaQ3Z6M_u5HSE",
+  "scoreImg": "https://cecpadua.github.io/resouces/scoreIMG/yuanichonggaoC.jpg",
+  "align": "strict",
+  "sections": [
+  {
+    "name": "愿你崇高",
+    "lines": [
+      { "b": true, "line": [
+        {"chord":"@@@@@@@F/C@@@@G/C@@@G @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"1'_ 2'_ | 3' - - 2'_ 3'_ | 4' - - 3'_ 4'_ | 5' - - - | 2' - - 1_ 2_ |","lyric":"@@@@@@@@@@@@@@@@@@@我要 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"C@@G13@@@C@@@@C/E@@@F@C@@@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"|| 3 3_ 3_ 3 2_ ( 3__ 2__ ) | 1 - - 3_ 4_ | 5 {3 5_ 5_ 5_ } 1' 6 | 5 - - 5_ 5_ |","lyric":"在万民中称谢 @你，@@我要在列邦中歌颂 你， @@你的 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"F@G7@C E/B @Am@@Dm@@F/G G C@@C7 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"( 6· 4_ ) 2· 6_ | 5 ( 3_ 2_ ) 1 2_ 3_ | 4 3_ 2_ 1 2 | 3 - - 5_ 5_ |","lyric":"慈 @爱高及诸@天，你的信实上达穹 苍。 @@你的 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"F@G7@C E/B @Am@@Dm@@F/G G C@@C7 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"( 6· 4_ ) 2· 6_ | 5 ( 3_ 2_ ) 1 2_ 3_ | 4 3_ 2_ 1 2 | 1 - 0 5_ 5_ ||","lyric":"慈 @爱高及诸@天，你的信实上达穹苍。 @@哈利 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"F@G@C@@C7@@Dm@@G@C@@C7 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"|| ( 6· 1'_ ) 7· 6_ | 5 ( 3_ 2_ ) 1 2_ 3_ | 4 4_ 1'_ 7· 6_ | 5 - 0 5_ 5_ |","lyric":"路 @亚，哈利路@亚，你的慈爱高及诸天。 @@哈利 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"F@G7@C E/B @Am@@Dm@@F/G G C@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"( 6· 4_ ) 2· 6_ | 5 ( 3_ 2_ ) 1 2_ 3_ | 4 3_ 2_ 1 2 | 1 - - 0 ||/","lyric":"路 @亚，哈利路@亚，你的信实上达穹苍。 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]}
+    ]
+  }
+]
+}
