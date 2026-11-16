@@ -1,0 +1,46 @@
+{
+  "version": "1",
+  "created": "YuEn",
+  "createdTime": "2026-11-16 22:04:29",
+  "id": "hahaliluya",
+  "title": "哈...哈利路亚",
+  "titleEn": "Ha...Hallelujah",
+  "artist": "真道教会",
+  "sub": "【Songs from the rooftop】(2024) 授权翻译真道教会、林恩竹译",
+  "lyricist": "沙仑玫瑰教会(GMS)",
+  "composer": "沙仑玫瑰教会(GMS)",
+  "origKey": "C",
+  "timeSign": "4/4",
+  "bpm": 70,
+  "mp3": "/upload/hahaliluya.mp3",
+  "cover": "https://cecpadua.github.io/resouces/covers/hahaliluya.jpg",
+  "lrc": "https://cecpadua.github.io/resouces/lyrics/hahaliluya.lrc",
+  "youtube": "https://youtu.be/23zeR7dEDRI?si=8HHKYMTb3_wXnprK",
+  "scoreImg": "https://cecpadua.github.io/resouces/scoreIMG/hahaliluyaG.jpg",
+  "align": "strict",
+  "sections": [
+  {
+    "name": "哈...哈利路亚",
+    "lines": [
+      { "b": true, "line": [
+        {"chord":"G@@@C@D@@@@G@@Em@@@A@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"|| 3·_ 3__ ~ ! 3_ 4_ 4 0 | 2_ 2__ 2__ ~ ! 2_ 3_ 3 3_ 2_ | 1·_ 2__ ~ ! 2_ 3_ 2 6,_ 1_ |","lyric":"哈利 @路亚! @赞美声@ 响起,归给万王@之王,宇宙 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      [
+        {"chord":"C@@@@D@G@@@@C@D@@@@Em@@@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"4_ 4__ 4__ ~ ! 4_ 5_ 2 0 | 3·_ 3__ ~ ! 3_ 4__ ~ 5__ 4 0 | 2_ 2__ 2__ ~ ! 2_ 1_ ( 3 - | [ts:2/4] 3 ) 3_ 2_ |","lyric":"万物的 @主宰。@天使@天@军，@全地都@呼喊:@@哈利 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ],
+      { "b": true, "line": [
+        {"chord":"C@D@@@@G@C/D@G@@@@C @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"[ts:4/4] 1 1 7,_ 7,__ 7,__ ~ ! 7,_ 1_ | 1 - 0 0 || 3_ 0__ 3__ ~ ! 3_ 4_ 4 4 |","lyric":"路亚!赞美主@圣名。@@@哈@哈@利路亚! @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"D@@@@G D/F#@Em@@@A@@C@@D @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"2_ 2__ 2__ ~ ! 2_ 3_ 3 3_ 2_ | 1·_ 2__ ~ ! 2_ 3_ 2 0__ 6,__ | 4 5·_ 2__ ~ 2 - |","lyric":"我们高@举你，用心灵和@声音 @来荣耀你。 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"G@@@@C@D@@@@G D/F#@ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"3_ 0__ 3__ ~ ! 3_ 5_ 4 4 | 2_ 2__ 2__ ~ ! 2_ 1_ 3 3_ 2_ |","lyric":"哈@哈@利路亚!回响在@全地你恩 @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"Em@@@A@@C@D@G @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"1·_ 2__ ~ ! 2_ 3_ 2 6,_ 1_ | 4 - 3 2 | 1 - - - ||/","lyric":"典的@呼唤和丰盛 @的慈爱。 @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]}
+    ]
+  }
+]
+}
