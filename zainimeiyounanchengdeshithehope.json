@@ -1,0 +1,49 @@
+{
+  "version": "1",
+  "created": "YuEn",
+  "createdTime": "2026-11-24 17:26:12",
+  "id": "zainimeiyounanchengdeshithehope",
+  "title": "在祢没有难成的事",
+  "titleEn": "All Things Are Possible With You",
+  "artist": "The Hope",
+  "sub": "【在祢没有难成的事】",
+  "lyricist": "Franky Kuncoco作词",
+  "composer": "Franky Kuncoco作词",
+  "origKey": "G",
+  "timeSign": "4/4",
+  "bpm": 65,
+  "mp3": "/upload/zainimeiyounanchengdeshithehope.mp3",
+  "cover": "https://cecpadua.github.io/resouces/covers/zainimeiyounanchengdeshithehope.jpg",
+  "lrc": "https://cecpadua.github.io/resouces/lyrics/zainimeiyounanchengdeshithehope.lrc",
+  "youtube": "https://youtu.be/rUvwUc2_66s?si=E051L8dIu_5JnL82",
+  "scoreImg": "https://cecpadua.github.io/resouces/scoreIMG/zainimeiyounanchengdeshithehopeG.jpg",
+  "align": "strict",
+  "sections": [
+  {
+    "name": "在祢没有难成的事",
+    "lines": [
+      { "b": true, "line": [
+        {"chord":"@G@@@C@@@Em7@@@D@C @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"sp 1 1' 7 5 | 1 6 5 4 | 3 3' 2' 1' | 5 2' 1'· 5_ |","lyric":"@@@@@@@@@@@@@@@@祢 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"G@@@@@C@@@@@@Em7@@D@@C @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"3_ 4_ ! 5_ 5_ ~ 5 - | 2_ 3_ ! 4_ 4_ ~ 4 3_ 2_ | 1 1'_ 7_ ~ ! 7_ 5 ( 7_ | ~ 7_ 6_ ~ 6 ) - 0_ 5_","lyric":"是我喜悦， @@是我力量，@当我敬拜祢@ 喔主。 @@@@@祢 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"G@@@@@C@@@@@@Em7@@D @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"3_ 4_ ! 5_ 5_ ~ 5 - | 2_ 3_ ! 4_ 4_ ~ 4 3_ 2_ | 1 1'_ 7_ ~ ! 7_ 5 ( ([ 7_ |","lyric":"是我盼望，@@是我帮助，@ 唯有祢我的 @天父。 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"C@@@@@G@D/F#@@Em7@@@@Am7 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"7_ ]) 6_ ~ 6 ) - 0_ 6_ | 5 1' - 0_ 6_ | 5 1' - 0_ 6_ | 5 1'_ 1'_ ~ ! 1'_ 2' ([ 2'_ |","lyric":"@@@@@我渴慕 @@祢能力 @@彰显在我 @生命。 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"D@@@G@@@@@@@@@@C@@G/B @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"2' ]) - - - | 2'_ 1'__ 2'__ ~ ! 2'_ 1'__ 2'__ ~ ! 2'_ 1'__ 2'__ ~ ! 2'__ 3'·_ | 6 - - - |","lyric":"@@@@在祢从@ 没有@ 难成 @的 事， @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"Am7@@@@@@@@@@C/D@D@@G @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"4'_ 3'__ 4'__ ~ ! 4'_ 3'__ 4'__ ~ ! 4'_ 3'__ 2'__ ~ ! 2'_ 1'_ | 1' 7 1'·_ ~ 2'__ 2' | 2'_ 1'__ 2'__ ~ ! 2'_ 1'__ 2'__ ~ ! 2'__ 1'__ 2'__ ~ ! 2'__ 3'·_ |","lyric":"在祢里 @面凡@ 事都@有可能。耶 @稣，在祢从 @没有 @难成@的 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"C@@G/B@@Am7@@@@@D@@@@@G @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"6 - - 0_ 6__ 4'__ | ~ 4'_ 3'__ 2'__ ~ ! 2'__ 1'_ 4'__ ~ ! 4'__ 3'_ 2'__ ~ ! 2'__ 1'__ 7_ | 1' - - - ||/","lyric":"事， @@@因为@ 我全@ 心信 @靠祢， @我的主。 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]}
+    ]
+  }
+]
+}
