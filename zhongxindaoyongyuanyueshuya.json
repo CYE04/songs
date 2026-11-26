@@ -1,0 +1,50 @@
+{
+  "version": "1",
+  "created": "YuEn",
+  "createdTime": "2026-11-24 19:55:24",
+  "id": "zhongxindaoyongyuanyueshuya",
+  "title": "忠心到永远",
+  "titleEn": "Ku Tetap Setia",
+  "artist": "FGA Worship",
+  "sub": "Delon (MYS) 【忠心到永远】 (2014) FGA Worship译 约书亚乐团翻唱",
+  "lyricist": "Delon",
+  "composer": "Delon",
+  "origKey": "G",
+  "timeSign": "4/4",
+  "bpm": 62,
+  "mp3": "/upload/zhongxindaoyongyuanyueshuya.mp3",
+  "cover": "https://cecpadua.github.io/resouces/covers/zhongxindaoyongyuanyueshuya.jpg",
+  "lrc": "https://cecpadua.github.io/resouces/lyrics/zhongxindaoyongyuanyueshuya.lrc",
+  "youtube": "https://youtu.be/1itbeitJt6Y?si=QUyQqlk3rAaAQI4y",
+  "scoreImg": "https://cecpadua.github.io/resouces/scoreIMG/zhongxindaoyongyuanyueshuyaG.jpg",
+  "align": "strict",
+  "sections": [
+  {
+    "name": "忠心到永远",
+    "lines": [
+      { "b": true, "line": [
+        {"chord":"@@@@C@@@@@Bm7@A@@@Am7@D@G@G#dim@@@Am7@@@Cm @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"0_ 1'_ ! 3'_ 5'_ | 6'· 1''_ ! 7'_ 1''_ ! 1''_ 5'_ | 5' - b7'_ 6'_ ! 5'_ 3'_ | 4' - 7' 6' | 5' - b7'_ 6'_ ! 6'_ 5'_ | 5' - 1'' - | 1''_ b6'_ ! 6'_ 5'_ 5' 3' ||","lyric":"@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"G@@@D/F#@@@Em7@@@@@Bm/F#@C@@@@G/B @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"3_ 4__ 5__ ~ 5 2_ 3__ 4__ ~ 4 | 1__ 2_ 3__ ~ ! 3__ 1_ 7,__ ~ 7, - | 4_ 5__ 6__ ~ ! 6_ 4_ ! 3_ 4__ 5__ ~ ! 5_ 3_ |","lyric":"就像她@在背后@为你抹@香膏，@@她用眼 @泪为我主@ 洗 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"Dsus4@D@C@@@@@D/C@@@@Bm7@@@@Em7 (Eb) @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"2 - - - | 1_ 6__ 6__ ~ ! 6_ 6__ 6__ ~ ! 6_ 5__ 5__ ~ ! 5·_ 4__ | 3_ 4__ 5__ ! ~ 5_ 7,_ 1 0·_ 3__ |","lyric":"脚，@@@我要这@ 样爱@ 慕你，@一生都不@离弃，@耶 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"G/D@@@D@@@@@G@@@@@C,D@@D/C,E/D@@@@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"3_ 5__ 5__ ~ 5 2_ 5__ 5__ ~ ! 5_ 7,__ 1__ ~ | 1 - 0_ 1_ ! 3_ 5_ || 6 ~ 6·_ 1'__ ! 7__ 1'_ 2'__ ~ ! 2'_ 5__ ([ 5__ |","lyric":"稣我主，@你对我@真好。@@@直到一天， @我闭上我@双眼, @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"},
+        {"label":"Chorus","dx":333,"dy":44}
+      ]},
+      { "b": true, "line": [
+        {"chord":"Bm7,C#m7@@Em7,F#m7@@@@@Am7,Bm7@@D,E@@@@@G,A@(F),(G)@G7,A7 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"5 ]) 0·_ 1'__ ! 7__ 1'_ 1'__ ~ ! 1'_ 3__ 4__ ~ | 4 0·_ 1'__ ! 7_ 6__ 5__ ! ~ 5_ 4__ 5__ ~ | 5 - 0_ 1_ ! 3_ 5_ |","lyric":"@@我忠心不 @会变，@@等你应许@实现。@@@直到那 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"C,D@@D/C,E/D@@@@Bm7,C#m7@@(B7/Eb),(C#/F)@@Em7,F#m7 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"6 ~ 6·_ 1'__ ! 7__ 1'_ 2'__ ~ ! 2'__ 5·_ | 3'_ 4'__ 3'__ ~ ! 3'__ 2'_ 1'__ ~ 1'· 6__ 6__ |","lyric":"日， @我终于得@ 着 生命的 @冠冕， @我忠 @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"Am7,Bm7@@@@D,E@@@@@G,A @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"5_ 1'__ 1'__ ~ ! 1'·_ 5__ ! 3'__ 2'_ 1'__ ~ ! 1'_ 7__ 1'__ ~ | 1' - - - ||/","lyric":"心不变， @服侍你到 @永远。 @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]}
+    ]
+  }
+]
+}
