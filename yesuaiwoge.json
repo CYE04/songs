@@ -1,0 +1,40 @@
+{
+  "version": "1",
+  "created": "YuEn",
+  "createdTime": "2026-11-28 11:19:25",
+  "id": "yesuaiwoge",
+  "title": "耶稣爱我歌",
+  "titleEn": "Jesus Loves Me, This I Know",
+  "artist": "诗歌本",
+  "sub": "【赞美诗歌 1608】",
+  "lyricist": "Anna B. Warner (1859)",
+  "composer": "William B. Bradbury (1862) ",
+  "origKey": "D",
+  "timeSign": "4/4",
+  "bpm": 60,
+  "mp3": "/upload/yesuaiwoge.mp3",
+  "cover": "https://cecpadua.github.io/resouces/covers/hongbenben.jpg",
+  "lrc": "https://cecpadua.github.io/resouces/lyrics/yesuaiwoge.lrc",
+  "youtube": "https://youtu.be/lYzLInPyS-s?si=vrc0uq2D7q0F5pvT",
+  "scoreImg": "https://cecpadua.github.io/resouces/scoreIMG/yesuaiwogeD.jpg",
+  "align": "strict",
+  "sections": [
+  {
+    "name": "耶稣爱我歌",
+    "lines": [
+      { "b": true, "line": [
+        {"chord":"D@A@D@D@G@@@G/D@D @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"5 3 3 2 | 3 5 5 - | 6 6 1' 6 | 6 5 5 - |","lyric":"耶稣爱我万不错，@因有圣书告诉我； @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","lyric2":"耶稣爱我舍性命，@将我罪恶洗干净； @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","lyric3":"耶稣爱我永不忘，@永不离开他小羊； @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","lyric4":"耶稣爱我爱到底，@爱我罪人真希奇； @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"D@A@D@D@G@D@A7@D @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"5 3 3 2 | 3 5 5 - | 6 6 5 1 | 3 2 1 - |","lyric":"凡属我主众小羊，@虽然软弱主强壮。 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","lyric2":"天堂荣门替我开，@把他小羊引进来。 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","lyric3":"白日遭难主搭救，@黑夜睡觉主看守。 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","lyric4":"倘若生前我爱他，@死后领我到他家。 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"D@@@G@@@D@E/B@A @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"5 - 3 5 | 6 1' - - | 5 - 3 1 | 3 2 - - |","lyric":"主@耶稣爱我，@@主@耶稣爱我， @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]},
+      { "b": true, "line": [
+        {"chord":"D@@@G@@@D/A@A7@@D@@@G@D @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @","n":"5 - 3 5 | 6 1'^ - 6 | 5 1 3 ~ 3_ 2_ | 1 - - - ||/ 1 - 1 - ||/","lyric":"主@耶稣爱我，@圣书上告@诉我。@@@阿@们 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @"}
+      ]}
+    ]
+  }
+]
+}
